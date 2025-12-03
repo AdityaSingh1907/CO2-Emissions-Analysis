@@ -100,7 +100,12 @@ Streamlit: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_
 
 7. Data Sources
  - Kaggle Data (primary dataset – historical CO₂ emissions)
- - Our World In Data CO₂ Dataset (OWID) – real-world validation dataset (till 2023/2024) 
+ - Our World In Data CO₂ Dataset (OWID) – real-world validation dataset (till 2023/2024)
+
+
+![Streamlit_app_gif](https://github.com/user-attachments/assets/c383fe9c-9af1-4812-8012-48042951d344)
+
+
 
 
 
