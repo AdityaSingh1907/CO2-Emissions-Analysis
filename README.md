@@ -50,54 +50,56 @@ CO2-Emissions-Analysis/
 
 3. Dataset Description
 
-Country -	Name of country
-Region	- Continent
-Date	  - Year of measurement
-Kilotons of CO2	- Total annual emissions
-Metric Tons Per Capita	- Per-person emissions
+ - Country -	Name of country
+ - Region	- Continent
+ - Date	  - Year of measurement
+ - Kilotons of CO2	- Total annual emissions
+ - Metric Tons Per Capita	- Per-person emissions
 
 4. Tools & Technologies Used
 
 1. Platform & Environment
-Google Colab (main development notebook)
-Streamlit (interactive CO₂ Forecast Validator & CO₂ Classification Dashboard)
+ - Google Colab (main development notebook)
+ - Streamlit (interactive CO₂ Forecast Validator & CO₂ Classification Dashboard)
 
 2. Programming Language
-Python 3.10+
+ - Python 3.10+
 
 3. Core Libraries for Data Analysis
-Pandas – data manipulation and preprocessing
-NumPy – numerical operations
-Matplotlib & Seaborn – static visualizations and statistical plots
-Plotly Express – interactive maps, charts, animated CO₂ choropleths
+ - Pandas – data manipulation and preprocessing
+ - NumPy – numerical operations
+ - Matplotlib & Seaborn – static visualizations and statistical plots
+ - Plotly Express – interactive maps, charts, animated CO₂ choropleths
 
 4. Machine Learning & Modeling
+
 Classification Models
-Scikit-learn
-Random Forest Classifier
-Support Vector Machine (SVM)
-Artificial Neural Network (MLPClassifier)
-GridSearchCV for hyperparameter tuning
-Feature Engineering (OneHotEncoder, train_test_split)
-Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Cross-Validation
+ - Scikit-learn
+ - Random Forest Classifier
+ - Support Vector Machine (SVM)
+ - Artificial Neural Network (MLPClassifier)
+ - GridSearchCV for hyperparameter tuning
+ - Feature Engineering (OneHotEncoder, train_test_split)
+ - Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC, Cross-Validation
 
 Time-Series Forecasting Models
-Facebook Prophet
-Forecast modeling
-Trend decomposition
-Future CO₂ prediction
+ - Facebook Prophet
+ - Forecast modeling
+ - Trend decomposition
+ - Future CO₂ prediction
 
 5. Deployment & Dashboards
-Streamlit
-CO₂ Emission Classification UI
-CO₂ Forecast Validator (Prophet vs Actual OWID data)
-Global CO₂ Map Visualization
-CO₂ Top Emitters Ranking
-Animated CO₂ Timeline (Plotly Choropleth)
 
-6. Data Sources
-Kaggle Data (primary dataset – historical CO₂ emissions)
-Our World In Data CO₂ Dataset (OWID) – real-world validation dataset (till 2023/2024) 
+Streamlit
+ - CO₂ Emission Classification UI
+ - CO₂ Forecast Validator (Prophet vs Actual OWID data)
+ - Global CO₂ Map Visualization
+ - CO₂ Top Emitters Ranking
+ - Animated CO₂ Timeline (Plotly Choropleth)
+
+7. Data Sources
+ - Kaggle Data (primary dataset – historical CO₂ emissions)
+ - Our World In Data CO₂ Dataset (OWID) – real-world validation dataset (till 2023/2024) 
 
 
 
