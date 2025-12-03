@@ -90,7 +90,8 @@ Time-Series Forecasting Models
 
 5. Deployment & Dashboards
 
-Streamlit
+Streamlit: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://co2-emissions-analysis-j2cflxie7hcyvh2fqbjmrp.streamlit.app/)
+
  - CO₂ Emission Classification UI
  - CO₂ Forecast Validator (Prophet vs Actual OWID data)
  - Global CO₂ Map Visualization
