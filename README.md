@@ -8,44 +8,43 @@ Climate change is driven largely by CO₂ emissions. Understanding which countri
 
 This project performs:
 
-- Data cleaning & exploration
-
-- Global CO₂ trend analysis
-- Classification (high vs low emitters) using ML models
-- Forecasting future CO₂ levels using Facebook Prophet
-- Forecast validation using real OWID data
-- Global CO₂ Mapping (Plotly Choropleth + Time-lapse)
-- Interactive Streamlit Dashboard
+ - Data cleaning & exploration
+ - Global CO₂ trend analysis
+ - Classification (high vs low emitters) using ML models
+ - Forecasting future CO₂ levels using Facebook Prophet
+ - Forecast validation using real OWID data
+ - Global CO₂ Mapping (Plotly Choropleth + Time-lapse)
+ - Interactive Streamlit Dashboard
 
 
 2. Repository Structure
 
 
-CO2-Emissions-Analysis/
-│
-├── data/
-├── models/
-│     ├── Tuned_rf_model.pkl
-│     ├── Tuned_svm_model.pkl
-│     ├── Tuned_ann_model.pkl
-│     ├── encoder.pkl
-│
-├── notebooks/
-│     ├── 01_Data_Cleaning_Exploration.ipynb
-│     ├── 02_Classification_Models.ipynb
-│     ├── 03_Forecasting_Prophet.ipynb
-│     └── 04_Model_Validation.ipynb
-│
-├── app/
-│     └── streamlit_app.py
-│
-├── visuals/
-│     ├── actual_vs_forecast.png
-│     ├── residuals.png
-│     └── model_metrics.png
-│
-├── requirements.txt
-└── README.md
+ CO2-Emissions-Analysis/
+ │
+ ├── data/
+ ├── models/
+ │     ├── Tuned_rf_model.pkl
+ │     ├── Tuned_svm_model.pkl
+ │     ├── Tuned_ann_model.pkl
+ │     ├── encoder.pkl
+ │
+ ├── notebooks/
+ │     ├── 01_Data_Cleaning_Exploration.ipynb
+ │     ├── 02_Classification_Models.ipynb
+ │     ├── 03_Forecasting_Prophet.ipynb
+ │     └── 04_Model_Validation.ipynb
+ │
+ ├── app/
+ │     └── streamlit_app.py
+ │
+ ├── visuals/
+ │     ├── actual_vs_forecast.png
+ │     ├── residuals.png
+ │     └── model_metrics.png
+ │
+ ├── requirements.txt
+ └── README.md
 
 
 3. Dataset Description
