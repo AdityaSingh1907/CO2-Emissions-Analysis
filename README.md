@@ -103,6 +103,9 @@ Streamlit: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_
  - Our World In Data CO₂ Dataset (OWID) – real-world validation dataset (till 2023/2024)
 
 
+
+GIF Preview of the Streamlit App :
+
 ![Streamlit_app_gif](https://github.com/user-attachments/assets/c383fe9c-9af1-4812-8012-48042951d344)
 
 
