@@ -1,4 +1,4 @@
-🌍 CO₂ Emissions Analysis, Classification & Forecasting
+🌍 Globle CO₂ Emissions Analysis, Classification & Forecasting
 
 A complete Machine Learning + Time-Series Project with Streamlit Dashboard & Global CO₂ Mapping
 
